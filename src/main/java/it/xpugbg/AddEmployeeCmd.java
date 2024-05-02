@@ -1,3 +1,5 @@
+package it.xpugbg;
+
 import java.io.OutputStream;
 public class AddEmployeeCmd {
     String name;
